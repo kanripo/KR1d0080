@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 學禮質疑
-#+DATE: 2015-09-23 09:38:41
-#+PROPERTY: JUAN 0
+#+DATE: 2015-08-24 22:11:24.510031
+#+PROPERTY: ID KR1d0080
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 提要
 <pb:KR1d0080_WYG_000-1a>¶
 欽定四庫全書　　　　經部四¶
 　學禮質疑　　　　　　禮類四(三禮縂義之屬/)¶
@@ -79,4 +81,3 @@
 　　　　非一家之學也乾隆四十六年十月恭校上¶
 　　　　　　　總纂官(臣/)紀昀(臣/)陸錫熊(臣/)孫士毅¶
 　　　　　　　總　校　官　(臣/)　陸　費　墀¶
-
